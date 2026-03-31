@@ -51,7 +51,7 @@ for page, endpoint, desc in endpoints:
 
 st.divider()
 
-st.subheader("セットアップ")
+st.subheader("セットアップ -- 本Webページを使うだけの場合には不要です。自分のPCにオンプレミスで本HPと同じWebアプリを導入する場合の作業手順です。作業にはパッケージが必要ですので管理者までお知らせください。")
 st.markdown("""
 ```bash
 # 1. 依存パッケージのインストール
